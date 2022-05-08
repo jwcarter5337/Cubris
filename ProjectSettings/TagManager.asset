@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Barrier
+  - SBarrier
+  - NBarrier
+  - EBarrier
+  - WBarrier
+  - Base
   layers:
   - Default
   - TransparentFX
